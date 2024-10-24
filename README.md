@@ -1,2 +1,2 @@
 # BusquedaMistica
-Desarrollo de Videojuego de Aventura en 2D
+El proyecto consiste en crear un videojuego de aventura en 2D, que combine elementos de exploración, resolución de acertijos y combate. La trama se desarrollará en un mundo vibrante y lleno de detalles, con entornos variados que inviten a la exploración. Los jugadores asumirán el papel de un héroe que debe superar obstáculos, interactuar con personajes y desentrañar misterios para avanzar en la historia.
